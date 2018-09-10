@@ -2,11 +2,13 @@
 
 create sql database
 
-database called 'registration'
+localhost/phpmyadmin
 
-table called 'users'
+create a database called 'registration'
 
-6 columns in 'users' tables
+create a table called 'users' in the database
+
+create 6 columns in 'users' tables
 
 ID
 Type INT(11) AUTO_INCREMENT
