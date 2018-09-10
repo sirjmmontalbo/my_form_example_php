@@ -1,0 +1,52 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: green;
+}
+
+
+.regbox{
+	padding: 30px, 50px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	width: 500px;
+	height: 420px;
+	padding: 80px, 40px;
+	box-sizing: border-box;
+	background: rgba(0,0,0,0.3);
+}
+
+.container{
+	position: relative;
+	color: white;
+	display: block;
+	width: 350px;
+	margin: 70px;
+	font-weight: bold;
+}
+
+input{
+	width: 100%;
+	padding: 5px;
+}
+
+input[type=submit]{
+	margin-top: 12px;
+	width: 30%;
+}
+
+.other-controls a{
+	font-style: none;
+	text-decoration: none;
+	color: white;
+}
+
+.success {
+  color: #3c763d; 
+  background: #dff0d8; 
+  border: 1px solid #3c763d;
+  margin-bottom: 20px;
+}
+
