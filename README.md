@@ -1,5 +1,7 @@
 # my_form_example_php
 
+created by Sir JM Montalbo. For learning purposes only. This is not a responsive example. Another responsive example will be given.
+
 create sql database
 
 localhost/phpmyadmin
